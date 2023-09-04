@@ -1,7 +1,7 @@
 #++++++++++++
 #+
 #+ Analyses and figures for: Wang-Claypool et al.: The proof is in the plumage: dietary ethanol exposure in birds revealed by ethyl glucuronide in feathers
-#+ Submitted to PNAS July 2023
+#+ Submitted to ProcB September 2023
 #++++++++++++
 #+Last updated: 25 July 2023
 #+
